@@ -1,0 +1,126 @@
+{
+  "results_dir": "C:\\Users\\zackd\\OneDrive\\Desktop\\Pipeline_Tlog_V0.1_Sunspots_En\\results\\ds_remove_small_lambda",
+  "generated_at": "2025-11-10T23:42:16.367467",
+  "files": {
+    "audit_integrity_report.json": {
+      "path": "C:\\Users\\zackd\\OneDrive\\Desktop\\Pipeline_Tlog_V0.1_Sunspots_En\\results\\ds_remove_small_lambda\\audit_integrity_report.json",
+      "size": 8587,
+      "sha1": "cb952be6adf19d75884208c25e21a071660879db"
+    },
+    "backups": {
+      "path": "C:\\Users\\zackd\\OneDrive\\Desktop\\Pipeline_Tlog_V0.1_Sunspots_En\\results\\ds_remove_small_lambda\\backups",
+      "size": null,
+      "sha1": null
+    },
+    "ds_robust_per_b.csv": {
+      "path": "C:\\Users\\zackd\\OneDrive\\Desktop\\Pipeline_Tlog_V0.1_Sunspots_En\\results\\ds_remove_small_lambda\\ds_robust_per_b.csv",
+      "size": 11009,
+      "sha1": "c6df618709ca338b9b9c354e28d36ee2235d1297"
+    },
+    "ds_vs_k_plot.png": {
+      "path": "C:\\Users\\zackd\\OneDrive\\Desktop\\Pipeline_Tlog_V0.1_Sunspots_En\\results\\ds_remove_small_lambda\\ds_vs_k_plot.png",
+      "size": 47223,
+      "sha1": "06ac0c746f1452f9c60211dece1f9ec98ad4242c"
+    },
+    "manifest_from_inspect.json": {
+      "path": "C:\\Users\\zackd\\OneDrive\\Desktop\\Pipeline_Tlog_V0.1_Sunspots_En\\results\\ds_remove_small_lambda\\manifest_from_inspect.json",
+      "size": 6324,
+      "sha1": "35dea9e7eae2cacb6f06c8ef9079212dc2639b1e"
+    },
+    "manifest_from_run.json": {
+      "path": "C:\\Users\\zackd\\OneDrive\\Desktop\\Pipeline_Tlog_V0.1_Sunspots_En\\results\\ds_remove_small_lambda\\manifest_from_run.json",
+      "size": 4721,
+      "sha1": "b9f79b645b647df839745eaa591da48c6190f56d"
+    },
+    "manifest_refit_auto_20251111T012343Z.json": {
+      "path": "C:\\Users\\zackd\\OneDrive\\Desktop\\Pipeline_Tlog_V0.1_Sunspots_En\\results\\ds_remove_small_lambda\\manifest_refit_auto_20251111T012343Z.json",
+      "size": 4988,
+      "sha1": "21e731be3e1e4b423f220ef1d7dc6f072be8c6c0"
+    },
+    "manifest_refit_b67_20251111T012902Z.json": {
+      "path": "C:\\Users\\zackd\\OneDrive\\Desktop\\Pipeline_Tlog_V0.1_Sunspots_En\\results\\ds_remove_small_lambda\\manifest_refit_b67_20251111T012902Z.json",
+      "size": 236,
+      "sha1": "c3a7803e51f24b8446c0482523a65b33495156a1"
+    },
+    "manifest_refit_top5_20251111T011749Z.json": {
+      "path": "C:\\Users\\zackd\\OneDrive\\Desktop\\Pipeline_Tlog_V0.1_Sunspots_En\\results\\ds_remove_small_lambda\\manifest_refit_top5_20251111T011749Z.json",
+      "size": 122,
+      "sha1": "1037a1f03d918dc4de7767562098c3c0db1fbd30"
+    },
+    "manifest_refit_top5_20251111T022244Z.json": {
+      "path": "C:\\Users\\zackd\\OneDrive\\Desktop\\Pipeline_Tlog_V0.1_Sunspots_En\\results\\ds_remove_small_lambda\\manifest_refit_top5_20251111T022244Z.json",
+      "size": 122,
+      "sha1": "c1999658f8764722bbc6252fadaafe5107648845"
+    },
+    "manifest_replace_20251111T005633Z.json": {
+      "path": "C:\\Users\\zackd\\OneDrive\\Desktop\\Pipeline_Tlog_V0.1_Sunspots_En\\results\\ds_remove_small_lambda\\manifest_replace_20251111T005633Z.json",
+      "size": 267,
+      "sha1": "2f6e4ee22276d329bd920ef1b62d6f32fcd7be58"
+    },
+    "manifest_replace_20251111T022235Z.json": {
+      "path": "C:\\Users\\zackd\\OneDrive\\Desktop\\Pipeline_Tlog_V0.1_Sunspots_En\\results\\ds_remove_small_lambda\\manifest_replace_20251111T022235Z.json",
+      "size": 267,
+      "sha1": "e960050a56fa0c19ecd88af727d7f75ed3a96c09"
+    },
+    "run_ready_for_commit.txt": {
+      "path": "C:\\Users\\zackd\\OneDrive\\Desktop\\Pipeline_Tlog_V0.1_Sunspots_En\\results\\ds_remove_small_lambda\\run_ready_for_commit.txt",
+      "size": 1870,
+      "sha1": "41fd93158a623faff6222e266b3e322913b9b2cb"
+    },
+    "sensitive_bootstraps_k0_k1.csv": {
+      "path": "C:\\Users\\zackd\\OneDrive\\Desktop\\Pipeline_Tlog_V0.1_Sunspots_En\\results\\ds_remove_small_lambda\\sensitive_bootstraps_k0_k1.csv",
+      "size": 86,
+      "sha1": "6fea471581d7c3bf60da5462e61af0783e66089d"
+    },
+    "theilsen_ds_remove_small_lambda_per_b.csv": {
+      "path": "C:\\Users\\zackd\\OneDrive\\Desktop\\Pipeline_Tlog_V0.1_Sunspots_En\\results\\ds_remove_small_lambda\\theilsen_ds_remove_small_lambda_per_b.csv",
+      "size": 43819,
+      "sha1": "3d30ad19a16afc817cd3c7a8332b953541cddfcd"
+    },
+    "theilsen_ds_remove_small_lambda_wide.csv": {
+      "path": "C:\\Users\\zackd\\OneDrive\\Desktop\\Pipeline_Tlog_V0.1_Sunspots_En\\results\\ds_remove_small_lambda\\theilsen_ds_remove_small_lambda_wide.csv",
+      "size": 14639,
+      "sha1": "a00de6d185a4f9a72b2a5eb479d96b685d533175"
+    },
+    "theilsen_ds_remove_small_lambda_wide_augmented_rebuilt.csv": {
+      "path": "C:\\Users\\zackd\\OneDrive\\Desktop\\Pipeline_Tlog_V0.1_Sunspots_En\\results\\ds_remove_small_lambda\\theilsen_ds_remove_small_lambda_wide_augmented_rebuilt.csv",
+      "size": 17388,
+      "sha1": "137cec935b89a025a86afc692e6530c554a10cd8"
+    },
+    "theilsen_ds_remove_small_lambda_wide_with_sensitivity.csv": {
+      "path": "C:\\Users\\zackd\\OneDrive\\Desktop\\Pipeline_Tlog_V0.1_Sunspots_En\\results\\ds_remove_small_lambda\\theilsen_ds_remove_small_lambda_wide_with_sensitivity.csv",
+      "size": 21539,
+      "sha1": "a35c1217ae702d33ffcd11e16372365bf0906f6f"
+    },
+    "Tlog_final_summary.csv": {
+      "path": "C:\\Users\\zackd\\OneDrive\\Desktop\\Pipeline_Tlog_V0.1_Sunspots_En\\results\\ds_remove_small_lambda\\Tlog_final_summary.csv",
+      "size": 174,
+      "sha1": "555af92e026dcf77120a4d5f667db7b03766cbd2"
+    },
+    "Tlog_per_b_final.csv": {
+      "path": "C:\\Users\\zackd\\OneDrive\\Desktop\\Pipeline_Tlog_V0.1_Sunspots_En\\results\\ds_remove_small_lambda\\Tlog_per_b_final.csv",
+      "size": 7694,
+      "sha1": "37fe24c7247479a22f1193cbf9ff829a2b67547a"
+    },
+    "top15_match_report.csv": {
+      "path": "C:\\Users\\zackd\\OneDrive\\Desktop\\Pipeline_Tlog_V0.1_Sunspots_En\\results\\ds_remove_small_lambda\\top15_match_report.csv",
+      "size": 830,
+      "sha1": "4886c68d028b3c6602407f2706a88b711bed7231"
+    },
+    "top15_match_report_extended.csv": {
+      "path": "C:\\Users\\zackd\\OneDrive\\Desktop\\Pipeline_Tlog_V0.1_Sunspots_En\\results\\ds_remove_small_lambda\\top15_match_report_extended.csv",
+      "size": 2,
+      "sha1": "ba8ab5a0280b953aa97435ff8946cbcbb2755a27"
+    },
+    "top15_Tlog_closest_to_zero.csv": {
+      "path": "C:\\Users\\zackd\\OneDrive\\Desktop\\Pipeline_Tlog_V0.1_Sunspots_En\\results\\ds_remove_small_lambda\\top15_Tlog_closest_to_zero.csv",
+      "size": 1439,
+      "sha1": "0e584cc496f671d13f0ac064a2256df91240f14e"
+    },
+    "top5_atypical_review.csv": {
+      "path": "C:\\Users\\zackd\\OneDrive\\Desktop\\Pipeline_Tlog_V0.1_Sunspots_En\\results\\ds_remove_small_lambda\\top5_atypical_review.csv",
+      "size": 1036,
+      "sha1": "133a44765ec92f9bc00135c93281b2e64568a9a7"
+    }
+  }
+}

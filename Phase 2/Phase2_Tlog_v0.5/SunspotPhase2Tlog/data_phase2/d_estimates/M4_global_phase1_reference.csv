@@ -1,0 +1,2 @@
+method_id,series,d_ref,d_internal_median,d_internal_ci_low,d_internal_ci_high,d_external_median,d_external_ci_low,d_external_ci_high,source_summary_file
+M4_global_phase1,S0,2.0,1.56,1.38,1.75,2.05,1.07,4.42,Phase1Sunspots_V0.5_synthese_globale_Tlog.md

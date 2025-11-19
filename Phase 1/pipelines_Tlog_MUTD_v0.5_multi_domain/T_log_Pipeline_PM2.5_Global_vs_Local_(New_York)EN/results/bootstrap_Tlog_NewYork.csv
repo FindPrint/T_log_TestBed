@@ -1,0 +1,2 @@
+scope,n_obs,d_fixed,T_log_obs,B,p_value,ci_low,ci_high,direction
+New York,324,1,-17.342230547376985,1000,0.006,-17.295808050330205,-15.335963365069631,divergence (T_log < 0)

@@ -1,0 +1,40 @@
+[STEP=1][INFO][BLOC_0.2] Initialisation du système de logging terminée.
+[STEP=2][INFO][BLOC_1.0] Fichier sunspots.zip détecté à l'emplacement : C:\Users\zackd\OneDrive\Desktop\Phase2_Tlog_v0.5\SunspotPhase2Tlog\sunspots.zip
+[STEP=3][INFO][BLOC_1.1] 1 fichier(s) CSV extrait(s) depuis sunspots.zip vers data_phase2/sunspots_raw/
+[STEP=4][INFO][BLOC_1.2] CSV Sunspots chargé depuis Sunspots.csv avec shape=(3265, 3)
+[STEP=5][INFO][BLOC_1.3] Série Sunspots nettoyée : n=3265, période=1749-01-31->2021-01-31, Monthly Mean Total Sunspot Number min=0.0, max=398.2, mean=81.77877488514548
+[STEP=6][INFO][BLOC_1.4] CSV Sunspots nettoyé sauvegardé dans Sunspots_clean.csv
+[STEP=7][INFO][BLOC_1.5] df_sunspots_clean rechargé depuis Sunspots_clean.csv avec shape=(3265, 2)
+[STEP=8][INFO][BLOC_2.0] Série temporelle de base construite : n=3265, index_monotone=True, dup_dates=0, freq_inferree=ME
+[STEP=9][INFO][BLOC_2.1] Check valeurs Sunspots : n=3265, NaN=0, inf=0, neg=0, zeros=67, min=0.0, max=398.2, mean=81.77877488514548
+[STEP=10][INFO][BLOC_2.3] Série S1 (z-score) créée à partir de S0 : mean=81.77877488514548, std=67.88927651806058, fichier=Sunspots_clean_zscore.csv
+[STEP=11][INFO][BLOC_2.4] Définitions de fenêtres construites : total=11682, window_sizes=[60, 132, 264], strides=[1, 6, 12], fichier=window_definitions.csv
+[STEP=12][INFO][BLOC_3.0] Infra Bloc 3.0 : série S0 rechargée (shape=(3265, 1)), fenêtres chargées (total=11682, W=[60, 132, 264], G=[1, 6, 12]).
+[STEP=13][INFO][BLOC_3.1] Sous-échantillon de calibration construit : total=360, N_CALIB_PER_GROUP=40, fichier=window_calibration_subset.csv
+[STEP=14][INFO][BLOC_3.2] Matrices de calibration S0 construites pour 9 combinaisons (W,G). Fichiers créés dans C:\Users\zackd\OneDrive\Desktop\Phase2_Tlog_v0.5\SunspotPhase2Tlog\data_phase2\windows\calibration_matrices.
+[STEP=15][INFO][BLOC_3.3] M1 Levina–Bickel appliqué à S0 sur le sous-échantillon de calibration pour 9 combinaisons (W,G). Résultats sauvegardés dans C:\Users\zackd\OneDrive\Desktop\Phase2_Tlog_v0.5\SunspotPhase2Tlog\data_phase2\d_estimates_calibration.
+[STEP=16][INFO][BLOC_3.4] Visualisation de d_hat(k) par (W,G) générée à partir de M1_S0_calibration_per_k.csv et sauvegardée dans M1_S0_dhatk_by_WG.png.
+[STEP=17][INFO][BLOC_3.5] Résumé M1 S0 sur plage centrale de k (k_core_min=10, k_core_max=18) sauvegardé dans M1_S0_calibration_summary_core_k.csv.
+[STEP=18][INFO][BLOC_3.7] M1 Levina–Bickel appliqué à S1 (z-score) sur le sous-échantillon de calibration pour 9 combinaisons (W,G). Résultats sauvegardés dans C:\Users\zackd\OneDrive\Desktop\Phase2_Tlog_v0.5\SunspotPhase2Tlog\data_phase2\d_estimates_calibration.
+[STEP=19][INFO][BLOC_3.8] M2 PR/PCA appliqué à S0 sur le sous-échantillon de calibration pour 9 combinaisons (W,G). Résultats sauvegardés dans M2_S0_PR_calibration_summary.csv.
+[STEP=20][INFO][BLOC_3.10] M2 PR/PCA appliqué à S1 (z-score) sur le sous-échantillon de calibration pour 9 combinaisons (W,G). Résultats sauvegardés dans M2_S1_PR_calibration_summary.csv.
+[STEP=21][INFO][BLOC_3.12] M3 (spectral slope β) appliqué à S0 sur le sous-échantillon de calibration pour 9 combinaisons (W,G). Résultats sauvegardés dans M3_S0_spectral_per_window.csv et M3_S0_spectral_summary.csv.
+[STEP=22][INFO][BLOC_3.14] M1 Levina–Bickel appliqué à S0 sur TOUTES les fenêtres pour 9 combinaisons (W,G). Résultats sauvegardés dans M1_S0_all_windows_per_k.csv et M1_S0_all_windows_summary_core_k.csv.
+[STEP=23][INFO][BLOC_3.15] Diagnostic M1 (calibration vs toutes fenêtres) généré pour S0. Table fusionnée : 9 combinaisons (W,G). Figures sauvegardées dans M1_S0_calib_vs_all_scatter.png et M1_S0_calib_vs_all_ratio.png.
+[STEP=24][INFO][BLOC_3.16] M2 PR/PCA appliqué à S0 sur TOUTES les fenêtres pour 9 combinaisons (W,G). Résultats sauvegardés dans M2_S0_PR_all_windows_summary.csv.
+[STEP=25][INFO][BLOC_3.17] Fichier de référence M4_global_phase1 sauvegardé dans M4_global_phase1_reference.csv
+[STEP=26][INFO][BLOC_3.18] Référence M4_global_phase1 rechargée depuis M4_global_phase1_reference.csv avec shape=(1, 10)
+[STEP=27][INFO][BLOC_3.19] Résumé M2 (PR/PCA) pour S0 agrégé par taille de fenêtre W. Fichier de référence écrit dans M2_S0_PR_reference_by_W.csv
+[STEP=28][INFO][BLOC_4.0] Tableau d'entrée T_log construit à partir de M2_PR_ref(W) et M4_global_phase1. Fichier sauvegardé dans Tlog_inputs_W.csv
+[STEP=29][INFO][BLOC_4.1] T_log(n_W, d) calculé pour chaque combinaison (W, méthode). Fichier sauvegardé dans Tlog_values_W.csv
+[STEP=30][INFO][BLOC_4.2] T_log(n_W, d) rechargé et tableau compact T_log(W, méthode) construit (Bloc 4.2).
+[STEP=31][INFO][BLOC_5.0] Marqueurs de phase de cycle (minima/maxima) construits à partir de S0 avec fenêtre de lissage=13 mois et séparation minimale=90 mois. Fichier sauvegardé dans cycle_phase_markers.csv
+[STEP=32][INFO][BLOC_5.1] Fenêtres (W, G) associées à des phases de cycle (min/max/rising/declining/pre_cycle/post_cycle). Fichier sauvegardé dans windows_with_cycle_phase.csv
+[STEP=33][INFO][BLOC_5.2] Tableau agrégé d_M1(W, k, cycle_phase) construit à partir de windows_with_cycle_phase.csv et M1_S0_all_windows_per_k.csv. Fichier sauvegardé dans M1_S0_d_by_W_k_cycle_phase.csv
+[STEP=34][INFO][BLOC_5.3] M1 Levina–Bickel recalculé par fenêtre pour toutes les combinaisons (W,G) avec étiquette de phase de cycle. Résultats sauvegardés dans M1_S0_per_window_all_WG.csv et M1_S0_summary_by_W_G_phase_k.csv.
+[STEP=35][INFO][BLOC_5.4] Diagnostics M1 min vs max (non chevauchants) terminés. Écrits: M1_min_max_nonoverlap_samples.csv, M1_min_vs_max_nonoverlap_stats.csv.
+[STEP=36][INFO][BLOC_5.4.1] Synthèse M1 min vs max (non chev.) terminée. Écrits: M1_min_vs_max_nonoverlap_stats_significant.csv, M1_min_vs_max_nonoverlap_summary_by_WG.csv.
+[STEP=37][INFO][BLOC_5.4.2] Audit des effectifs non chevauchants M1 min/max par (W,G,phase) terminé. Écrit: M1_nonoverlap_counts_by_W_G_phase.csv.
+[STEP=38][INFO][BLOC_5.4.A] Bloc 5.4.A visualisé (W=60, G=12, K_LIST=[8, 12, 16, 20]); SAVE_FIG=False.
+[STEP=39][INFO][BLOC_5.4.B] Analyse FDR par (W,G) terminée. Résultats sauvegardés dans C:\Users\zackd\OneDrive\Desktop\Phase2_Tlog_v0.5\SunspotPhase2Tlog\data_phase2\d_estimates_by_phase\fdr_sensitivity_analysis
+[STEP=40][INFO][BLOC_4] Bloc 4 – T_log final calculé avec triangulation M1/M2/M3 et incertitudes bootstrap. Résultats : d≈2.75, T_log≈-5.60. Fichiers sauvegardés dans tlog_results/

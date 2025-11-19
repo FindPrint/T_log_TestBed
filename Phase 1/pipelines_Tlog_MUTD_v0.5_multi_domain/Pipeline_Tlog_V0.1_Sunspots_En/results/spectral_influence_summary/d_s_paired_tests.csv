@@ -1,0 +1,7 @@
+method_A,method_B,n_pairs,wilcoxon_stat,wilcoxon_p,median_diff
+d_s_orig,d_s_noinfl,10,0.0,0.001953125,-0.8101880178817626
+d_s_orig,d_s_theilsen,10,0.0,0.001953125,-1.2598201705673362
+d_s_orig,d_s_ransac,10,0.0,0.001953125,-0.8101880178817626
+d_s_noinfl,d_s_theilsen,10,0.0,0.001953125,-0.45879153941358974
+d_s_noinfl,d_s_ransac,10,0.0,1.0,0.0
+d_s_theilsen,d_s_ransac,10,1.0,0.00390625,0.44510336190795985

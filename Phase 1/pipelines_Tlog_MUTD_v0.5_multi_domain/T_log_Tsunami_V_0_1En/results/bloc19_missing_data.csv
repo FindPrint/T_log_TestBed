@@ -1,0 +1,7 @@
+scenario,missing_frac,n_remaining,T_log,Regime
+MCAR,0.05,743,0.0,Equilibrium
+MCAR,0.1,704,0.0,Equilibrium
+MCAR,0.2,626,0.0,Equilibrium
+Clustered_decade_2020,0.05,777,0.0,Equilibrium
+Clustered_decade_2010,0.1,741,0.0,Equilibrium
+Clustered_decade_2010,0.2,699,0.0,Equilibrium

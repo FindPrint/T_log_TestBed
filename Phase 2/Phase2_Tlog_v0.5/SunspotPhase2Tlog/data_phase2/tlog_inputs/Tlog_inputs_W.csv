@@ -1,0 +1,7 @@
+series,W,n_points_per_window,method_id,d_est,d_est_std,d_est_80,d_est_90,d_ci_internal_low,d_ci_internal_high,d_ci_external_low,d_ci_external_high,source_table
+S0,60,60,M2_PR_ref,2.737304611856741,0.0053201361658647,2.0,6.333333333333333,,,,,M2_S0_PR_reference_by_W.csv
+S0,60,60,M4_global_phase1,2.0,,,,1.38,1.75,1.07,4.42,M4_global_phase1_reference.csv
+S0,132,132,M2_PR_ref,4.235883857380857,0.0095716868411806,3.0,12.0,,,,,M2_S0_PR_reference_by_W.csv
+S0,132,132,M4_global_phase1,2.0,,,,1.38,1.75,1.07,4.42,M4_global_phase1_reference.csv
+S0,264,264,M2_PR_ref,5.464763575692825,0.0158570439189938,6.0,20.666666666666668,,,,,M2_S0_PR_reference_by_W.csv
+S0,264,264,M4_global_phase1,2.0,,,,1.38,1.75,1.07,4.42,M4_global_phase1_reference.csv

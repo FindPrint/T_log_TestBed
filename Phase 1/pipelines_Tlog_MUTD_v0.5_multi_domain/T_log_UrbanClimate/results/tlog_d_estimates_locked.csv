@@ -1,0 +1,2 @@
+timestamp,n_cities,d_participation,d_pca90,d_estimate_raw,d_estimate_clipped,T_log,regime,seed
+2025-11-11T06:14:30.794735Z,20,3.8005003705245297,4,3.900250185262265,3.900250185262265,-0.2988237392908647,Divergence,42

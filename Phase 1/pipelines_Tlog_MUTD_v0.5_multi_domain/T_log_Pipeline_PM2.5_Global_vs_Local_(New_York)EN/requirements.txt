@@ -1,0 +1,22 @@
+# Core data science libraries
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.5.0
+
+# Statistical and machine learning libraries
+scipy>=1.7.0
+statsmodels>=0.13.0
+scikit-learn>=1.0.0
+
+# Data access
+kaggle>=1.5.0
+
+# Standard library modules (included with Python, but listed for completeness)
+# os
+# csv
+# shutil
+# random
+# logging
+# datetime
+# json
+# zipfile

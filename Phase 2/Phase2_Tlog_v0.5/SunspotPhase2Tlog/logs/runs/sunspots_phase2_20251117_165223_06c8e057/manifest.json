@@ -1,0 +1,9 @@
+{
+  "run_id": "sunspots_phase2_20251117_165223_06c8e057",
+  "created_at": "2025-11-17T16:52:23.557377",
+  "phase2_root": "C:\\Users\\zackd\\OneDrive\\Desktop\\Phase2_Tlog_v0.5\\SunspotPhase2Tlog",
+  "notebook_name": "SunspotPhase2Tlog.ipynb",
+  "python_version": "3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "global_seed": 42
+}

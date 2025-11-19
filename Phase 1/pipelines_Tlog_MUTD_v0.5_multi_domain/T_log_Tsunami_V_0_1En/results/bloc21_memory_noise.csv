@@ -1,0 +1,17 @@
+kernel,n_eff_global,noise_frac,n_noisy,T_log,Regime
+EMA_alpha0.5,771,0.01,779,0.0,Equilibrium
+EMA_alpha0.5,771,-0.01,763,0.0,Equilibrium
+EMA_alpha0.5,771,0.05,810,0.0,Equilibrium
+EMA_alpha0.5,771,-0.05,732,0.0,Equilibrium
+EMA_alpha0.5,771,0.1,848,0.0,Equilibrium
+EMA_alpha0.5,771,-0.1,694,0.0,Equilibrium
+EMA_alpha0.5,771,0.2,925,0.0,Equilibrium
+EMA_alpha0.5,771,-0.2,617,0.0,Equilibrium
+Boxcar_W5,780,0.01,788,0.0,Equilibrium
+Boxcar_W5,780,-0.01,772,0.0,Equilibrium
+Boxcar_W5,780,0.05,819,0.0,Equilibrium
+Boxcar_W5,780,-0.05,741,0.0,Equilibrium
+Boxcar_W5,780,0.1,858,0.0,Equilibrium
+Boxcar_W5,780,-0.1,702,0.0,Equilibrium
+Boxcar_W5,780,0.2,936,0.0,Equilibrium
+Boxcar_W5,780,-0.2,624,0.0,Equilibrium

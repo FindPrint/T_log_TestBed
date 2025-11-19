@@ -1,0 +1,2 @@
+n_samples,tol_equilibrium,p_saturation,p_equilibrium,p_divergence,tol_equilibrium_alt,p_equilibrium_tol2,Tlog_median,Tlog_mean
+150,0.01,0.0,0.0,1.0,0.1,0.0,-30.56521555655284,-30.578871479612268

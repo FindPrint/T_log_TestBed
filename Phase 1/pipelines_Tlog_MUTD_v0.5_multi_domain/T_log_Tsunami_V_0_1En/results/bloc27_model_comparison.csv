@@ -1,0 +1,6 @@
+Model,MSE,MAE,R2
+T_log (d=4),0.0,0.0,1.0
+Constant baseline,0.0,0.0,1.0
+Linear regression,0.0,0.0,1.0
+Polynomial regression (deg=2),0.0,0.0,1.0
+"ARIMA(1,0,0)",1267.444215976289,35.39317242573948,0.0

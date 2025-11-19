@@ -1,0 +1,4 @@
+window_type,pipeline,windows_count,sign_consistency_frac
+annual,A,45,0.8888888888888888
+annual,B,45,0.9333333333333333
+annual,C,45,0.8888888888888888

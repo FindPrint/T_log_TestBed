@@ -1,0 +1,194 @@
+years_before_present,calendar_year,co2_ppm,age_uncertainty_years,ice_core_site,data_source,measurement_method,data_quality
+80,1945,312.66,5.0,Vostok,Antarctic_Ice_Core,Gas Chromatography,Good
+90,1935,308.06,5.0,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+100,1925,305.56,5.0,GRIP,Antarctic_Ice_Core,Gas Chromatography,Good
+110,1915,303.69,5.0,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Fair
+120,1905,297.39,5.0,GRIP,Antarctic_Ice_Core,Gas Chromatography,Fair
+130,1895,296.09,5.0,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+140,1885,286.44,5.0,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+150,1875,290.23,5.0,Vostok,Antarctic_Ice_Core,Gas Chromatography,Excellent
+160,1865,283.18,5.0,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Excellent
+170,1855,278.84,5.0,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Excellent
+180,1845,276.97,5.0,Vostok,Antarctic_Ice_Core,Gas Chromatography,Good
+190,1835,278.02,5.0,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Fair
+200,1825,278.66,5.0,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+210,1815,278.86,5.0,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+220,1805,279.63,5.0,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Excellent
+230,1795,274.39,5.0,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+240,1785,280.32,5.0,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+250,1775,280.05,5.0,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+260,1765,274.34,5.2,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+270,1755,278.42,5.4,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+280,1745,277.73,5.6,Vostok,Antarctic_Ice_Core,Gas Chromatography,Good
+290,1735,280.2,5.8,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Excellent
+300,1725,277.13,6.0,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Excellent
+310,1715,279.43,6.2,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Excellent
+320,1705,280.59,6.4,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+330,1695,280.48,6.6,Vostok,Antarctic_Ice_Core,Gas Chromatography,Good
+340,1685,278.17,6.8,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Good
+350,1675,279.57,7.0,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+360,1665,273.29,7.2,GRIP,Antarctic_Ice_Core,Gas Chromatography,Good
+370,1655,278.64,7.4,Vostok,Antarctic_Ice_Core,Gas Chromatography,Excellent
+380,1645,277.41,7.6,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Good
+390,1635,276.18,7.8,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Good
+400,1625,281.96,8.0,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+410,1615,279.98,8.2,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+420,1605,278.3,8.4,Vostok,Antarctic_Ice_Core,Gas Chromatography,Excellent
+430,1595,278.66,8.6,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Excellent
+440,1585,277.39,8.8,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Excellent
+450,1575,277.9,9.0,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+460,1565,276.05,9.2,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Fair
+470,1555,277.01,9.4,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Excellent
+480,1545,277.16,9.6,Vostok,Antarctic_Ice_Core,Gas Chromatography,Good
+490,1535,277.61,9.8,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Fair
+500,1525,279.25,10.0,Vostok,Antarctic_Ice_Core,Gas Chromatography,Excellent
+510,1515,280.72,10.2,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Good
+520,1505,276.77,10.4,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+530,1495,278.19,10.6,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+540,1485,275.26,10.8,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+550,1475,279.9,11.0,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+560,1465,278.97,11.2,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+570,1455,276.39,11.4,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Excellent
+580,1445,279.09,11.6,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+590,1435,282.6,11.8,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Good
+600,1425,276.72,12.0,Vostok,Antarctic_Ice_Core,Gas Chromatography,Good
+610,1415,284.46,12.2,GRIP,Antarctic_Ice_Core,Gas Chromatography,Good
+620,1405,280.32,12.4,GRIP,Antarctic_Ice_Core,Gas Chromatography,Good
+630,1395,281.48,12.6,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Excellent
+640,1385,277.96,12.8,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Excellent
+650,1375,280.53,13.0,GRIP,Antarctic_Ice_Core,Gas Chromatography,Good
+660,1365,280.74,13.2,GRIP,Antarctic_Ice_Core,Gas Chromatography,Good
+670,1355,279.68,13.4,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+680,1345,274.82,13.6,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Excellent
+690,1335,281.33,13.8,Vostok,Antarctic_Ice_Core,Gas Chromatography,Good
+700,1325,280.81,14.0,GRIP,Antarctic_Ice_Core,Gas Chromatography,Good
+710,1315,285.09,14.2,GRIP,Antarctic_Ice_Core,Gas Chromatography,Good
+720,1305,278.77,14.4,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Fair
+730,1295,279.55,14.6,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Fair
+740,1285,280.17,14.8,Vostok,Antarctic_Ice_Core,Gas Chromatography,Fair
+750,1275,277.31,15.0,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+760,1265,280.25,15.2,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+770,1255,281.04,15.4,Vostok,Antarctic_Ice_Core,Gas Chromatography,Excellent
+780,1245,277.7,15.6,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Excellent
+790,1235,279.81,15.8,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Good
+800,1225,280.97,16.0,Vostok,Antarctic_Ice_Core,Gas Chromatography,Excellent
+810,1215,279.46,16.2,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+820,1205,281.15,16.4,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+830,1195,279.58,16.6,Vostok,Antarctic_Ice_Core,Gas Chromatography,Excellent
+840,1185,279.58,16.8,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Excellent
+850,1175,276.22,17.0,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Excellent
+860,1165,279.6,17.2,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+870,1155,284.15,17.4,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+880,1145,285.52,17.6,Vostok,Antarctic_Ice_Core,Gas Chromatography,Excellent
+890,1135,281.48,17.8,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Excellent
+900,1125,277.61,18.0,GRIP,Antarctic_Ice_Core,Gas Chromatography,Good
+910,1115,280.21,18.2,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Fair
+920,1105,280.47,18.4,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Fair
+930,1095,282.98,18.6,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+940,1085,278.77,18.8,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+950,1075,282.78,19.0,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Good
+960,1065,278.06,19.2,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+970,1055,276.49,19.4,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+980,1045,278.13,19.6,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+990,1035,283.13,19.8,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1000,1025,274.05,20.0,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Fair
+1010,1015,279.72,20.2,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1020,1005,283.08,20.4,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Good
+1030,995,280.72,20.6,GRIP,Antarctic_Ice_Core,Gas Chromatography,Good
+1040,985,278.45,20.8,GRIP,Antarctic_Ice_Core,Gas Chromatography,Good
+1050,975,280.69,21.0,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1060,965,279.97,21.2,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Good
+1070,955,279.42,21.4,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1080,945,276.63,21.6,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1090,935,281.5,21.8,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Good
+1100,925,279.41,22.0,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Fair
+1110,915,275.85,22.2,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Good
+1120,905,279.8,22.4,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1130,895,279.97,22.6,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1140,885,282.75,22.8,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1150,875,280.67,23.0,Vostok,Antarctic_Ice_Core,Gas Chromatography,Good
+1160,865,277.64,23.2,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1170,855,280.65,23.4,Vostok,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1180,845,277.71,23.6,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1190,835,279.7,23.8,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1200,825,281.17,24.0,GRIP,Antarctic_Ice_Core,Gas Chromatography,Fair
+1210,815,280.42,24.2,Vostok,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1220,805,280.1,24.4,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Good
+1230,795,279.1,24.6,Vostok,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1240,785,277.66,24.8,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Good
+1250,775,281.98,25.0,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1260,765,282.28,25.2,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1270,755,281.28,25.4,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1280,745,281.8,25.6,Vostok,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1290,735,281.5,25.8,Vostok,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1300,725,284.03,26.0,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1310,715,278.71,26.2,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1320,705,278.72,26.4,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1330,695,280.54,26.6,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1340,685,284.13,26.8,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1350,675,281.98,27.0,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1360,665,280.43,27.2,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Good
+1370,655,282.56,27.4,Vostok,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1380,645,282.19,27.6,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1390,635,279.85,27.8,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1400,625,277.01,28.0,GRIP,Antarctic_Ice_Core,Gas Chromatography,Good
+1410,615,278.43,28.2,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Fair
+1420,605,280.58,28.4,GRIP,Antarctic_Ice_Core,Gas Chromatography,Good
+1430,595,284.18,28.6,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1440,585,279.36,28.8,Vostok,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1450,575,281.1,29.0,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Good
+1460,565,276.5,29.2,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1470,555,280.72,29.4,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Fair
+1480,545,288.0,29.6,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Good
+1490,535,279.4,29.8,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1500,525,276.53,30.0,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Good
+1510,515,283.6,30.2,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1520,505,276.62,30.4,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Good
+1530,495,282.17,30.6,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1540,485,280.11,30.8,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1550,475,281.15,31.0,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Good
+1560,465,281.17,31.2,GRIP,Antarctic_Ice_Core,Gas Chromatography,Fair
+1570,455,280.4,31.4,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1580,445,278.84,31.6,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1590,435,285.54,31.8,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Good
+1600,425,283.59,32.0,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1610,415,277.05,32.2,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1620,405,275.68,32.4,Vostok,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1630,395,280.94,32.6,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1640,385,274.19,32.8,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1650,375,284.72,33.0,Vostok,Antarctic_Ice_Core,Gas Chromatography,Good
+1660,365,275.66,33.2,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1670,355,278.9,33.4,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1680,345,277.18,33.6,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1690,335,271.36,33.8,Vostok,Antarctic_Ice_Core,Gas Chromatography,Good
+1700,325,275.59,34.0,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1710,315,280.53,34.2,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1720,305,283.45,34.4,Vostok,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1730,295,281.58,34.6,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1740,285,278.68,34.8,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Good
+1750,275,275.93,35.0,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1760,265,278.71,35.2,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1770,255,278.83,35.4,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1780,245,281.65,35.6,Vostok,Antarctic_Ice_Core,Gas Chromatography,Good
+1790,235,281.56,35.8,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1800,225,279.99,36.0,Vostok,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1810,215,281.54,36.2,GRIP,Antarctic_Ice_Core,Gas Chromatography,Good
+1820,205,277.91,36.4,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1830,195,279.78,36.6,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1840,185,275.21,36.8,Vostok,Antarctic_Ice_Core,Gas Chromatography,Good
+1850,175,274.43,37.0,Vostok,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1860,165,284.35,37.2,GRIP,Antarctic_Ice_Core,Gas Chromatography,Fair
+1870,155,273.24,37.4,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1880,145,277.77,37.6,Vostok,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1890,135,280.18,37.8,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Good
+1900,125,275.34,38.0,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Good
+1910,115,276.69,38.2,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Good
+1920,105,275.61,38.4,GRIP,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1930,95,281.47,38.6,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1940,85,278.36,38.8,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1950,75,273.87,39.0,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1960,65,276.18,39.2,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Good
+1970,55,280.39,39.4,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1980,45,282.48,39.6,EPICA Dome C,Antarctic_Ice_Core,Gas Chromatography,Excellent
+1990,35,282.5,39.8,Vostok,Antarctic_Ice_Core,Gas Chromatography,Good
+2000,25,276.38,40.0,Law Dome,Antarctic_Ice_Core,Gas Chromatography,Excellent

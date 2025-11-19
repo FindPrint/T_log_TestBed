@@ -1,0 +1,43 @@
+{
+  "seed": 42,
+  "aggregation": {
+    "temporal_aggregation": "mean",
+    "aggregation_group": [
+      "city",
+      "country",
+      "latitude",
+      "longitude"
+    ]
+  },
+  "features": [
+    "temperature_celsius",
+    "humidity_percent",
+    "precipitation_mm",
+    "wind_speed_ms",
+    "urban_heat_island_intensity"
+  ],
+  "preprocessing": {
+    "imputation": "none (checked earlier, no missing)",
+    "scaler": "StandardScaler (zero mean, unit variance)"
+  },
+  "d_estimators": {
+    "participation_ratio": "d_part = (sum(eig))^2 / sum(eig^2) for covariance eigenvalues",
+    "pca90": "smallest k s.t. cumulative explained variance >= 0.90",
+    "fusion_rule": "d = (d_part + d_pca90) / 2"
+  },
+  "T_log": {
+    "formula": "T_log = (d - 4) * ln(n_eff)",
+    "n_eff_rule": "n_eff = max(2, n_cities)"
+  },
+  "sanitization": {
+    "d_clip_min": 0.1,
+    "d_clip_max": 100.0,
+    "n_min_for_ln": 2
+  },
+  "outputs": {
+    "d_results_csv": "tlog_d_estimates_locked.csv",
+    "spectrum_png": "d_spectrum_locked.png",
+    "readme": "README_method.md",
+    "params": "params.json"
+  }
+}

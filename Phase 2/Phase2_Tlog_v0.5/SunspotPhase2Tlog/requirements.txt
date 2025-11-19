@@ -1,0 +1,14 @@
+# Requirements Phase 2 – Sunspots T_log v0.5
+# Pas de versions fixées pour éviter les conflits d'environnement.
+
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+statsmodels
+SALib
+jupyter
+notebook
+tqdm>=4.65.0  # Pour les barres de progression

@@ -1,0 +1,5 @@
+feature,method,outliers_count,outliers_prop,low_thresh,high_thresh,city_key,mahalanobis
+humidity_percent,IQR,8.0,0.0007246376811594203,12.249999999999996,84.65,,
+wind_speed_ms,IQR,3.0,0.0002717391304347826,-0.549999999999998,16.65,,
+urban_heat_island_intensity,IQR,2760.0,0.25,0.625,1.625,,
+multivariate,Mahalanobis,,,,,Dallas_USA_32.7767_-96.797,23.627679252283606

@@ -1,0 +1,2 @@
+scope,n_obs,d_fixed,T_log_obs,B,mode,p_value,ci_low,ci_high,direction
+Global,6480,1,-26.329427368038964,1000,subsample,0.0,-26.28324031160504,-24.32404107717028,divergence (T_log < 0)

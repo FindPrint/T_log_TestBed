@@ -1,0 +1,34 @@
+Run summary generated at: 2025-11-11T04:42:23.481634Z
+Artifacts to commit:
+- results\ds_remove_small_lambda\ds_robust_per_b.csv
+- results\ds_remove_small_lambda\Tlog_per_b_final.csv
+- results\ds_remove_small_lambda\Tlog_final_summary.csv
+- results\ds_remove_small_lambda\top15_Tlog_closest_to_zero.csv
+- results\ds_remove_small_lambda\top15_match_report.csv
+- results\ds_remove_small_lambda\top15_match_report_extended.csv
+- results\ds_remove_small_lambda\manifest_replace_20251111T005633Z.json
+- diagnostics_theilsen_per_b_top15\b_008_diagnostic_rebuilt.png
+- diagnostics_theilsen_per_b_top15\b_011_diagnostic_rebuilt.png
+- diagnostics_theilsen_per_b_top15\b_019_diagnostic_rebuilt.png
+- diagnostics_theilsen_per_b_top15\b_031_diagnostic_rebuilt.png
+- diagnostics_theilsen_per_b_top15\b_049_diagnostic_rebuilt.png
+- diagnostics_theilsen_per_b_top15\b_052_diagnostic_rebuilt.png
+- diagnostics_theilsen_per_b_top15\b_057_diagnostic_rebuilt.png
+- diagnostics_theilsen_per_b_top15\b_066_diagnostic_rebuilt.png
+- diagnostics_theilsen_per_b_top15\b_067_diagnostic_rebuilt.png
+- diagnostics_theilsen_per_b_top15\b_069_diagnostic_rebuilt.png
+- diagnostics_theilsen_per_b_top15\b_072_diagnostic_rebuilt.png
+- diagnostics_theilsen_per_b_top15\b_083_diagnostic_rebuilt.png
+- diagnostics_theilsen_per_b_top15\b_089_diagnostic_rebuilt.png
+- diagnostics_theilsen_per_b_top15\b_108_diagnostic_rebuilt.png
+- diagnostics_theilsen_per_b_top15\b_113_diagnostic_rebuilt.png
+- diagnostics_theilsen_per_b_top15\b_145_diagnostic_rebuilt.png
+
+Tlog summary:
+count_b: 150
+Tlog_count: 150
+Tlog_median: -6.618184855820388
+Tlog_q025: -6.94377367042387
+Tlog_q975: -6.22006442160035
+Tlog_mean: -6.609562991915332
+Tlog_std: 0.19233714945996472

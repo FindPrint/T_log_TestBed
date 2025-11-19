@@ -1,0 +1,4 @@
+T_log V0.1 — Session de tests
+UTC start: 2025-11-11T03:56:00.178938Z
+Seeds: random=42, numpy=42
+Conventions: biais=0 par défaut

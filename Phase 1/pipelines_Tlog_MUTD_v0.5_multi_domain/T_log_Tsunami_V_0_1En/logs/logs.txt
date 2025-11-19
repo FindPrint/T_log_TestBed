@@ -1,0 +1,44 @@
+2025-11-11 03:18:37,522 | INFO | Aucun répertoire /content/sample_data à supprimer.
+2025-11-11 03:18:37,526 | INFO | Préparation terminée: librairies importées, seeds fixés, dossiers créés, logger opérationnel.
+2025-11-11 03:18:46,576 | INFO | Fichiers extraits: ['earthquake_data_tsunami.csv']
+2025-11-11 03:18:46,652 | INFO | Calcul T_log terminé: -6.6619, régime=Divergence (instabilité)
+2025-11-11 03:18:46,961 | INFO | Bloc 4 terminé: classification et visualisation effectuées.
+2025-11-11T03:18:47.274583 | INFO | Bloc 5.1 terminé: stress test sur n effectué, plot=results/tlog_vs_n.png
+2025-11-11 03:18:47,973 | INFO | Bloc 5.2 terminé: bootstrap effectué, histogramme et boxplot sauvegardés.
+2025-11-11 03:18:49,925 | INFO | Bloc 5.3 terminé: Validation quantitative effectuée, MSE=0.0000, R²=1.0000
+2025-11-11 03:18:50,225 | INFO | Bloc 5.4 terminé: heatmap générée et sauvegardée.
+Bloc 16 completed: sensitivity scan around d=4
+[2025-11-11T03:18:56.814225] Bloc 17 executed: CSV=results/permutation_test_d4.csv, PLOT=results/permutation_test_d4.png, TRUE_CSV=results/permutation_true_d4_by_decade.csv
+Bloc 18 completed: temporal granularity robustness test at d=4
+[2025-11-11T03:18:57.572952] Bloc 19 executed: CSV=results/bloc19_missing_data.csv, PLOT=results/bloc19_missing_data.png
+[2025-11-11T03:18:57.944229] Bloc 20 executed: CSV=results/bloc20_memory_offcritical.csv, PLOT=results/bloc20_memory_offcritical.png
+[2025-11-11T03:18:58.431737] Bloc 20bis executed: CSV=results/bloc20bis_memory_local.csv, PLOT=results/bloc20bis_memory_local.png
+[2025-11-11T03:18:58.788889] Bloc 21 executed: CSV=results/bloc21_memory_noise.csv, PLOT=results/bloc21_memory_noise.png
+[2025-11-11T03:18:59.374602] Bloc 22 executed: CSV=results/bloc22_memory_noise_offcritical.csv, PLOT=results/bloc22_memory_noise_offcritical.png
+[2025-11-11T03:18:59.812634] Bloc 23 executed: CSV=results/bloc23_spatial_memory_noise.csv, PLOT=results/bloc23_spatial_memory_noise.png
+[2025-11-11T03:19:00.217021] Bloc 24 executed: CSV=results/bloc24_multifactor.csv, PLOT=results/bloc24_multifactor.png
+[2025-11-11T03:19:01.023450] Bloc 26 executed: CSV=results/bloc26_eval_metrics.csv, PLOT=results/bloc26_residuals.png
+[2025-11-11T03:19:01.955623] Bloc 27 executed: CSV=results/bloc27_model_comparison.csv, PLOT=results/bloc27_model_comparison.png
+[2025-11-11T03:19:02.081214] Bloc 28 executed: CSV=results/bloc28_crossval.csv
+2025-11-11 03:20:10,964 | INFO | Aucun répertoire /content/sample_data à supprimer.
+2025-11-11 03:20:10,975 | INFO | Préparation terminée: librairies importées, seeds fixés, dossiers créés, logger opérationnel.
+2025-11-11 03:20:12,465 | INFO | Fichiers extraits: ['earthquake_data_tsunami.csv']
+2025-11-11 03:20:12,530 | INFO | Calcul T_log terminé: -6.6619, régime=Divergence (instabilité)
+2025-11-11 03:20:12,747 | INFO | Bloc 4 terminé: classification et visualisation effectuées.
+2025-11-11T03:20:12.953015 | INFO | Bloc 5.1 terminé: stress test sur n effectué, plot=results/tlog_vs_n.png
+2025-11-11 03:20:13,478 | INFO | Bloc 5.2 terminé: bootstrap effectué, histogramme et boxplot sauvegardés.
+2025-11-11 03:20:15,397 | INFO | Bloc 5.3 terminé: Validation quantitative effectuée, MSE=0.0000, R²=1.0000
+2025-11-11 03:20:15,605 | INFO | Bloc 5.4 terminé: heatmap générée et sauvegardée.
+Bloc 16 completed: sensitivity scan around d=4
+[2025-11-11T03:20:21.142839] Bloc 17 executed: CSV=results/permutation_test_d4.csv, PLOT=results/permutation_test_d4.png, TRUE_CSV=results/permutation_true_d4_by_decade.csv
+Bloc 18 completed: temporal granularity robustness test at d=4
+[2025-11-11T03:20:21.715199] Bloc 19 executed: CSV=results/bloc19_missing_data.csv, PLOT=results/bloc19_missing_data.png
+[2025-11-11T03:20:21.969988] Bloc 20 executed: CSV=results/bloc20_memory_offcritical.csv, PLOT=results/bloc20_memory_offcritical.png
+[2025-11-11T03:20:22.352376] Bloc 20bis executed: CSV=results/bloc20bis_memory_local.csv, PLOT=results/bloc20bis_memory_local.png
+[2025-11-11T03:20:22.594676] Bloc 21 executed: CSV=results/bloc21_memory_noise.csv, PLOT=results/bloc21_memory_noise.png
+[2025-11-11T03:20:22.891467] Bloc 22 executed: CSV=results/bloc22_memory_noise_offcritical.csv, PLOT=results/bloc22_memory_noise_offcritical.png
+[2025-11-11T03:20:23.192519] Bloc 23 executed: CSV=results/bloc23_spatial_memory_noise.csv, PLOT=results/bloc23_spatial_memory_noise.png
+[2025-11-11T03:20:23.491329] Bloc 24 executed: CSV=results/bloc24_multifactor.csv, PLOT=results/bloc24_multifactor.png
+[2025-11-11T03:20:24.188697] Bloc 26 executed: CSV=results/bloc26_eval_metrics.csv, PLOT=results/bloc26_residuals.png
+[2025-11-11T03:20:24.795733] Bloc 27 executed: CSV=results/bloc27_model_comparison.csv, PLOT=results/bloc27_model_comparison.png
+[2025-11-11T03:20:24.892534] Bloc 28 executed: CSV=results/bloc28_crossval.csv

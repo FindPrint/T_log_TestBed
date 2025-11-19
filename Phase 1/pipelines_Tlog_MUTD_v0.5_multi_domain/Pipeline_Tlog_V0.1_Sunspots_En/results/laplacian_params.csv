@@ -1,0 +1,8 @@
+param,value
+csv_path,data/sunspots_raw/Sunspots.csv
+value_col,Monthly Mean Total Sunspot Number
+embedding_dim,10
+tau,1
+k_neighbors,10
+n_nodes,3256
+n_eig,100

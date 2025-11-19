@@ -1,0 +1,10 @@
+W,G,total_tests,sig_tests,frac_sig,direction_majority,diff_means_mean_sig,cliffs_delta_mean_sig,cliffs_delta_abs_mean_sig,k_min_sig,k_max_sig,k_count_sig
+60,1,16,0,0.0,no_sig,,,,,,0
+60,6,16,0,0.0,no_sig,,,,,,0
+60,12,16,11,0.6875,min<max,-2.4184428430953497,-0.577878787878788,0.577878787878788,8.0,20.0,11
+132,1,16,0,0.0,no_sig,,,,,,0
+132,6,16,0,0.0,no_sig,,,,,,0
+132,12,16,0,0.0,no_sig,,,,,,0
+264,1,16,0,0.0,no_sig,,,,,,0
+264,6,16,0,0.0,no_sig,,,,,,0
+264,12,16,0,0.0,no_sig,,,,,,0

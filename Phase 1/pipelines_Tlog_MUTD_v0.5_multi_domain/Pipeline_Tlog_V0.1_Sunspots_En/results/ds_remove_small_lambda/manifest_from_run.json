@@ -1,0 +1,117 @@
+{
+  "generated_at": "2025-11-11T01:30:04.474514Z",
+  "summary": {
+    "count_b": 150,
+    "Tlog_count": 150,
+    "Tlog_median": -6.618064219773288,
+    "Tlog_q025": -6.924484843625584,
+    "Tlog_q975": -6.368963527507544,
+    "Tlog_mean": -6.6314834548173085,
+    "Tlog_std": 0.1610101874895739
+  },
+  "artifacts": [
+    {
+      "path": "results\\ds_remove_small_lambda\\ds_robust_per_b.csv",
+      "sha1": "ff45f18c9837780c9c7d4c486cb7ccb2a3f26e60"
+    },
+    {
+      "path": "results\\ds_remove_small_lambda\\Tlog_per_b_final.csv",
+      "sha1": "37fe24c7247479a22f1193cbf9ff829a2b67547a"
+    },
+    {
+      "path": "results\\ds_remove_small_lambda\\Tlog_final_summary.csv",
+      "sha1": "d90ecc062a394406f8151976c4d51deb5b09e358"
+    },
+    {
+      "path": "results\\ds_remove_small_lambda\\top15_Tlog_closest_to_zero.csv",
+      "sha1": "0e584cc496f671d13f0ac064a2256df91240f14e"
+    },
+    {
+      "path": "results\\ds_remove_small_lambda\\top15_match_report.csv",
+      "sha1": "4886c68d028b3c6602407f2706a88b711bed7231"
+    },
+    {
+      "path": "results\\ds_remove_small_lambda\\top15_match_report_extended.csv",
+      "sha1": "b19443a7252c23b074246af90e54a34a9e21b4dc"
+    },
+    {
+      "path": "results\\ds_remove_small_lambda\\manifest_replace_20251111T005633Z.json",
+      "sha1": "2f6e4ee22276d329bd920ef1b62d6f32fcd7be58"
+    },
+    {
+      "path": "diagnostics_theilsen_per_b_top15\\b_008_diagnostic_rebuilt.png",
+      "sha1": "c5e9a6433651087e2051534433f33e56c9946e3d",
+      "source_used": null
+    },
+    {
+      "path": "diagnostics_theilsen_per_b_top15\\b_011_diagnostic_rebuilt.png",
+      "sha1": "89124d10b0addc4d288c1e6899a7c82f1bc19f38",
+      "source_used": null
+    },
+    {
+      "path": "diagnostics_theilsen_per_b_top15\\b_019_diagnostic_rebuilt.png",
+      "sha1": "074aad8ea602171f0be6785931adda3750680175",
+      "source_used": null
+    },
+    {
+      "path": "diagnostics_theilsen_per_b_top15\\b_031_diagnostic_rebuilt.png",
+      "sha1": "5f1631a1f555927e802c96fd412d8d3c81427d98",
+      "source_used": "results\\spectral_diagnostics\\diag_001_counting.csv"
+    },
+    {
+      "path": "diagnostics_theilsen_per_b_top15\\b_049_diagnostic_rebuilt.png",
+      "sha1": "71662e87b67b9c85a2dd473c8bf7c784eb288736",
+      "source_used": "results\\spectral_diagnostics\\diag_001_counting.csv"
+    },
+    {
+      "path": "diagnostics_theilsen_per_b_top15\\b_052_diagnostic_rebuilt.png",
+      "sha1": "f27f510011f1613ce7c5c847fc0f9d3361caad32",
+      "source_used": "results\\spectral_diagnostics\\diag_001_counting.csv"
+    },
+    {
+      "path": "diagnostics_theilsen_per_b_top15\\b_057_diagnostic_rebuilt.png",
+      "sha1": "e9af7523f5881c79bb70220d7ba4426b540de165",
+      "source_used": "results\\spectral_diagnostics\\diag_001_counting.csv"
+    },
+    {
+      "path": "diagnostics_theilsen_per_b_top15\\b_066_diagnostic_rebuilt.png",
+      "sha1": "60048b4895db1792422c4633c947fe96bd3831ec",
+      "source_used": "results\\spectral_diagnostics\\diag_001_counting.csv"
+    },
+    {
+      "path": "diagnostics_theilsen_per_b_top15\\b_069_diagnostic_rebuilt.png",
+      "sha1": "7248baec653ca57b94309dfc74eefbd22ae96a99",
+      "source_used": "results\\spectral_diagnostics\\diag_001_counting.csv"
+    },
+    {
+      "path": "diagnostics_theilsen_per_b_top15\\b_072_diagnostic_rebuilt.png",
+      "sha1": "bb7cab940e8c43ac128fbca008c944b02a8aae1d",
+      "source_used": "results\\spectral_diagnostics\\diag_001_counting.csv"
+    },
+    {
+      "path": "diagnostics_theilsen_per_b_top15\\b_083_diagnostic_rebuilt.png",
+      "sha1": "63f52ba135cb97c8a7b582f852e2741f4a8b7aec",
+      "source_used": "results\\spectral_diagnostics\\diag_001_counting.csv"
+    },
+    {
+      "path": "diagnostics_theilsen_per_b_top15\\b_089_diagnostic_rebuilt.png",
+      "sha1": "d7c82799869cfcfe7bf2c762857173bbe7e83d05",
+      "source_used": "results\\spectral_diagnostics\\diag_001_counting.csv"
+    },
+    {
+      "path": "diagnostics_theilsen_per_b_top15\\b_108_diagnostic_rebuilt.png",
+      "sha1": "7b07520ba5e9862242a9357d6e6ee068cc54848e",
+      "source_used": "results\\spectral_diagnostics\\diag_001_counting.csv"
+    },
+    {
+      "path": "diagnostics_theilsen_per_b_top15\\b_113_diagnostic_rebuilt.png",
+      "sha1": "50fb961ab903de63a058f0d8ee712cc8e4804bbe",
+      "source_used": "results\\spectral_diagnostics\\diag_001_counting.csv"
+    },
+    {
+      "path": "diagnostics_theilsen_per_b_top15\\b_145_diagnostic_rebuilt.png",
+      "sha1": "997525ba1125dbe138c726aa42a44c6c21d5a206",
+      "source_used": "results\\spectral_diagnostics\\diag_001_counting.csv"
+    }
+  ]
+}

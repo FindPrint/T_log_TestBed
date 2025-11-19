@@ -1,0 +1,27 @@
+fold,type,MSE,MAE,R2
+Year 2001,Temporal,0.0,0.0,1.0
+Year 2002,Temporal,0.0,0.0,1.0
+Year 2003,Temporal,0.0,0.0,1.0
+Year 2004,Temporal,0.0,0.0,1.0
+Year 2005,Temporal,0.0,0.0,1.0
+Year 2006,Temporal,0.0,0.0,1.0
+Year 2007,Temporal,0.0,0.0,1.0
+Year 2008,Temporal,0.0,0.0,1.0
+Year 2009,Temporal,0.0,0.0,1.0
+Year 2010,Temporal,0.0,0.0,1.0
+Year 2011,Temporal,0.0,0.0,1.0
+Year 2012,Temporal,0.0,0.0,1.0
+Year 2013,Temporal,0.0,0.0,1.0
+Year 2014,Temporal,0.0,0.0,1.0
+Year 2015,Temporal,0.0,0.0,1.0
+Year 2016,Temporal,0.0,0.0,1.0
+Year 2017,Temporal,0.0,0.0,1.0
+Year 2018,Temporal,0.0,0.0,1.0
+Year 2019,Temporal,0.0,0.0,1.0
+Year 2020,Temporal,0.0,0.0,1.0
+Year 2021,Temporal,0.0,0.0,1.0
+Year 2022,Temporal,0.0,0.0,1.0
+Quadrant NE,Spatial,0.0,0.0,1.0
+Quadrant NW,Spatial,0.0,0.0,1.0
+Quadrant SE,Spatial,0.0,0.0,1.0
+Quadrant SW,Spatial,0.0,0.0,1.0
